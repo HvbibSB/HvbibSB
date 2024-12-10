@@ -1,5 +1,7 @@
 <h1 align="center">Habib Mze </h1>
 
+[FR](FR.md)
+
 Hey how is it going ? My name is Habib and I code for fun. Currently training in web development. So you came here to see what I can do, huh ? Have fun looking at my humble beginnings.
 
 <!-- <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1> -->
