@@ -22,5 +22,5 @@ My name is Habib and I code for fun. Currently training in web development. So y
 
 <h2 align="center"> How to reach me </h2>
 
---> habibmze@gmail.com
+--> habibmze23@gmail.com
 
