@@ -24,5 +24,5 @@ Je m'appelle Habib et je code pour le plaisir. Je me forme actuellement au déve
 
 <h2 align="center"> Comment me joindre </h2>
 
---> habibmze@gmail.com
+--> habibmze23@gmail.com
 
